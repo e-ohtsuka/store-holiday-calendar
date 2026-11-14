@@ -36,3 +36,4 @@ assets/*
 docs/*
 !docs/画面見本.png
 !docs/PDF出力見本.pdf
+!docs/使い方_*.png
