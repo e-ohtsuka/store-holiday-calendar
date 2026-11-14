@@ -1,0 +1,38 @@
+# Python / VS Code
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+
+# App user data and per-user configuration
+/data/
+**/data/
+*.log
+last_error.txt
+.env
+.env.*
+*.pem
+*.key
+
+# Build outputs and generated exports
+/build/
+/dist/
+*.spec
+*.exe
+*.zip
+*.pdf
+!assets/store_logo.pdf
+!docs/PDF出力見本.pdf
+
+# Do not accidentally publish newly added graphics or exports
+assets/*
+!assets/background_vector.json
+!assets/store_logo.pdf
+!assets/holidays_builtin_2026_2027.csv
+docs/*
+!docs/画面見本.png
+!docs/PDF出力見本.pdf
