@@ -6,7 +6,7 @@ Python製のデスクトップアプリケーション。店舗の休業日を�
 
 ![編集画面](docs/画面見本.png)
 
-[PDF出力見本](docs/PDF出力見本.pdf) ｜ [一般利用者向けの操作説明書](使い方.html)
+[PDF出力見本](docs/PDF出力見本.pdf) ｜ [一般利用者向けの操作説明書](https://e-ohtsuka.github.io/store-holiday-calendar/%E4%BD%BF%E3%81%84%E6%96%B9.html)
 
 ## 主な機能
 
